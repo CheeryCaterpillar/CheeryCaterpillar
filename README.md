@@ -1,4 +1,4 @@
-### Hi there 👋
+- 👋 Hi, I’m @CheeryCaterpillar/Jack
 - 👀 I’m interested in AWS, Docker, Python, IAC (Terraform/CloudFormation)
 - 🌱 I’m currently learning Docker, Terraform and Python
 - 😄 Pronouns: he/him
